@@ -1,6 +1,6 @@
 # DSA_Assignment1
 My first DSA Assignment, mostly about linked list, divide and conquer, OOP, etc.
-This DSA assignment me to do multiplication, addition, substraction, power and factorial of big numbers presented by a linked list(each node contains a digit).
+This DSA assignment does multiplication, addition, substraction, power and factorial of big numbers presented by a linked list(each node contains a digit).
 
 ## Addition
 I use the same algorithm as the one I used in Leetcode: https://leetcode.com/problems/add-two-numbers/
